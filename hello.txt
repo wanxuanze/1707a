@@ -1,7 +1,8 @@
 public class User{
      private Integer uid;
-     private String username;
+     private Integer age;
 
      private String password;
      private Integer roleid;
+     private String cname;
 }
